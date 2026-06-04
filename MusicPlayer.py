@@ -8,7 +8,7 @@ pygame.mixer.init()
 # The database of available OSTs per title/page (based on title id match)
 # (wav for terminal and mp3 for html)
 music_map = {
-    "Nier Replicant" : ["music/Song_of_the_Ancients_Devola.mp3", "music/Shadowlord_Castle_Roar.mp3"],
+    "Nier Replicant" : ["music/Song_of_the_Ancients_Devola.mp3", "music/His_Dream.mp3"],
     "Nier Automata" : ["music/Copied_City.mp3"],
     "Nier Reincarnation" : []
 }
